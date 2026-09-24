@@ -1,0 +1,778 @@
+{
+  "meta": {
+    "title": "Excusas estilo solo-papitas",
+    "count": 100,
+    "probability_sum": 1.0,
+    "rule": "probability es la chance relativa normalizada (suma = 1). Mientras más ridícula la excusa, más baja la probabilidad.",
+    "inspired_by": "data/solo-papitas/mensajes_excusa_gentesita.json",
+    "tone": "Anuncios de descanso de PapitasVT: cariño, autoironía VAGA, sueño, chamba invisible y preparación.",
+    "categories": [
+      "anime_citrus",
+      "anime_madoka",
+      "anime_villana",
+      "contenido",
+      "dormir",
+      "mente",
+      "preparar",
+      "ridicula",
+      "salir"
+    ],
+    "anime_refs": [
+      "citrus",
+      "madoka_magica",
+      "me_enamoré_de_la_villana"
+    ],
+    "notes": {
+      "citrus": "Referencias a Citrus suelen ser más absurdas/autoconscientes («no le gusta») → probabilidad baja.",
+      "usage": "Elegir con random.choices(texts, weights=[p...]) o muestreo por probability."
+    }
+  },
+  "excuses": [
+    {
+      "id": "excusa_001",
+      "category": "dormir",
+      "text": "Mi gentesita, hoy descansito… me quedé dormida otra vez y se me hizo tarde. Los veo mañana de chill.",
+      "probability": 0.030544,
+      "refs": []
+    },
+    {
+      "id": "excusa_002",
+      "category": "preparar",
+      "text": "Mi gentesita! Hoy descansito: ando terminando de configurar unas cosas del stream para mañana estar más chill.",
+      "probability": 0.029453,
+      "refs": []
+    },
+    {
+      "id": "excusa_003",
+      "category": "dormir",
+      "text": "Buenas mi gentesita. Hoy no prendo: me dormí «cinco minutitos» y desperté cuando ya era de noche. Oh yara.",
+      "probability": 0.028362,
+      "refs": []
+    },
+    {
+      "id": "excusa_004",
+      "category": "preparar",
+      "text": "Buenas mi gente. Hoy no prendo porque estoy editando VODs y si prendo a medias arruino lo que estoy preparando.",
+      "probability": 0.027271,
+      "refs": []
+    },
+    {
+      "id": "excusa_005",
+      "category": "dormir",
+      "text": "Mi gente.. hoy descanso. Me ganó el sueño y prefiero no prender a medias. Bonita noche, los quiero.",
+      "probability": 0.026181,
+      "refs": []
+    },
+    {
+      "id": "excusa_006",
+      "category": "preparar",
+      "text": "Mi gentesita, hoy descanso. Estoy escribiendo/ordenando ideas y quiero dejarlas listas antes de volver.",
+      "probability": 0.026181,
+      "refs": []
+    },
+    {
+      "id": "excusa_007",
+      "category": "mente",
+      "text": "Buenas mi gente. Hoy me tomo un descansito: ando saturada de tanto sobrepensar y prefiero volver más chill.",
+      "probability": 0.02509,
+      "refs": []
+    },
+    {
+      "id": "excusa_008",
+      "category": "dormir",
+      "text": "Mi gentesita! Hoy descansito porque me dormí en plena «preparación del stream». Mañana sí, prometido.",
+      "probability": 0.023999,
+      "refs": []
+    },
+    {
+      "id": "excusa_009",
+      "category": "preparar",
+      "text": "Mi gente.. hoy me tomo el día para terminar lo que empecé (sí, chamba invisible). Los veo mañana.",
+      "probability": 0.023999,
+      "refs": []
+    },
+    {
+      "id": "excusa_010",
+      "category": "preparar",
+      "text": "Bueno mi gentesita. Hoy descansito para terminar alertas/overlays y mañana presumirles el avance.",
+      "probability": 0.022908,
+      "refs": []
+    },
+    {
+      "id": "excusa_011",
+      "category": "dormir",
+      "text": "Disculpen mi gentesita. Me quedé dormida después de comer y ya no hay energía de stream. Los veo mañana.",
+      "probability": 0.021817,
+      "refs": []
+    },
+    {
+      "id": "excusa_012",
+      "category": "preparar",
+      "text": "Mi gentesita! Hoy no stream: estoy cortando VODs y si prendo ahora seguro alargo y no termino nada.",
+      "probability": 0.021817,
+      "refs": []
+    },
+    {
+      "id": "excusa_013",
+      "category": "mente",
+      "text": "Mi gentesita, hoy descanso. La cabeza está a mil y no quiero prender así. Mañana con más calma.",
+      "probability": 0.021817,
+      "refs": []
+    },
+    {
+      "id": "excusa_014",
+      "category": "preparar",
+      "text": "Disculpen mi gentesita. Hoy descanso porque estoy preparando contenido y quiero que salga decente.",
+      "probability": 0.020726,
+      "refs": []
+    },
+    {
+      "id": "excusa_015",
+      "category": "dormir",
+      "text": "Mi gentesita, hoy descanso. Dormí todo el día «sin querer» (sí, otra vez). Compenso mañana.",
+      "probability": 0.019635,
+      "refs": []
+    },
+    {
+      "id": "excusa_016",
+      "category": "preparar",
+      "text": "Mi gente, hoy descansito. Ando reordenando el stream deck / escenas y prefiero no pelearme con eso en vivo.",
+      "probability": 0.019635,
+      "refs": []
+    },
+    {
+      "id": "excusa_017",
+      "category": "mente",
+      "text": "Mi gente.. hoy no prendo. Necesito despejarme un poco; ya saben que prefiero estar bien para ustedes.",
+      "probability": 0.019635,
+      "refs": []
+    },
+    {
+      "id": "excusa_018",
+      "category": "salir",
+      "text": "Mi gentesita, hoy descansito: salí con familia y se me hizo tarde. Los veo mañana.",
+      "probability": 0.019635,
+      "refs": []
+    },
+    {
+      "id": "excusa_019",
+      "category": "dormir",
+      "text": "Buenas mi gente. Hoy no hay stream: me dormí tarde por sobrepensar y hoy el cuerpo pidió reset.",
+      "probability": 0.018545,
+      "refs": []
+    },
+    {
+      "id": "excusa_020",
+      "category": "preparar",
+      "text": "Buenas mi gentesita. Hoy no prendo: estoy terminando un par de cosas que quiero mostrarles mañana.",
+      "probability": 0.018545,
+      "refs": []
+    },
+    {
+      "id": "excusa_021",
+      "category": "dormir",
+      "text": "Mi gentesita! Me desperté tarde y en lo que acomodaba todo… ya no daba para prender. Descansen.",
+      "probability": 0.017454,
+      "refs": []
+    },
+    {
+      "id": "excusa_022",
+      "category": "preparar",
+      "text": "Mi gentesita, hoy descanso. Estoy escribiendo el lore/guion y tengo que aprovechar la creatividad ahora.",
+      "probability": 0.017454,
+      "refs": []
+    },
+    {
+      "id": "excusa_023",
+      "category": "mente",
+      "text": "Disculpen mi gentesita. Hoy no fue el mejor día mentalmente, así que descanso y mañana de chill.",
+      "probability": 0.017454,
+      "refs": []
+    },
+    {
+      "id": "excusa_024",
+      "category": "salir",
+      "text": "Buenas mi gente. Hoy no prendo porque tengo plan con amigas/familia. Compenso en el próximo stream.",
+      "probability": 0.017454,
+      "refs": []
+    },
+    {
+      "id": "excusa_025",
+      "category": "dormir",
+      "text": "Mi gente, hoy descansito. Tuve una pesadilla rara y preferí no prender con la cabeza así. Mañana les cuento.",
+      "probability": 0.016363,
+      "refs": []
+    },
+    {
+      "id": "excusa_026",
+      "category": "preparar",
+      "text": "Mi gente.. hoy me tomo el descansito para grabar/editar reacciones y no dejarlo a medias otra vez.",
+      "probability": 0.016363,
+      "refs": []
+    },
+    {
+      "id": "excusa_027",
+      "category": "dormir",
+      "text": "Bueno mi gentesita. Hoy descanso porque me dormí con el alarm… y con la alarma de respaldo también. Vaya.",
+      "probability": 0.015272,
+      "refs": []
+    },
+    {
+      "id": "excusa_028",
+      "category": "preparar",
+      "text": "Mi gentesita! Hoy no hay stream. Estoy armando canciones/ensayos y mañana les muestro avance.",
+      "probability": 0.015272,
+      "refs": []
+    },
+    {
+      "id": "excusa_029",
+      "category": "mente",
+      "text": "Mi gentesita! Hoy descansito para recuperar horario y bajar el estrés. Intentando no sobreexigirme.",
+      "probability": 0.015272,
+      "refs": []
+    },
+    {
+      "id": "excusa_030",
+      "category": "salir",
+      "text": "Mi gente.. hoy descanso. Fui a un evento/fiesta y hoy toca recuperarme como adulta responsable.",
+      "probability": 0.015272,
+      "refs": []
+    },
+    {
+      "id": "excusa_031",
+      "category": "dormir",
+      "text": "Mi gentesita, hoy no stream. Me quedé dormida «un ratito» después de editar y se fue el día.",
+      "probability": 0.014181,
+      "refs": []
+    },
+    {
+      "id": "excusa_032",
+      "category": "preparar",
+      "text": "Buenas mi gente. Hoy descanso: formateé/reinstalé cosas y me está tomando más tiempo de lo pensado.",
+      "probability": 0.014181,
+      "refs": []
+    },
+    {
+      "id": "excusa_033",
+      "category": "dormir",
+      "text": "Buenas mi gentesita. Hoy descanso: dormí mal, me desperté peor, y no quiero darles un stream zombie.",
+      "probability": 0.01309,
+      "refs": []
+    },
+    {
+      "id": "excusa_034",
+      "category": "preparar",
+      "text": "Disculpen mi gente. Hoy descansito porque estoy limpiando archivos y organizando el caos de la PC.",
+      "probability": 0.01309,
+      "refs": []
+    },
+    {
+      "id": "excusa_035",
+      "category": "mente",
+      "text": "Buenas mi gentesita. Hoy descanso: anduve ansiosa con mil cosas y quiero resetear antes de streamear.",
+      "probability": 0.01309,
+      "refs": []
+    },
+    {
+      "id": "excusa_036",
+      "category": "salir",
+      "text": "Disculpen mi gentesita. Hoy no hay stream: paseé, se hizo de noche, y ya no doy para prender.",
+      "probability": 0.01309,
+      "refs": []
+    },
+    {
+      "id": "excusa_037",
+      "category": "contenido",
+      "text": "Mi gentesita, hoy descanso… y sí, el día de peli/serie se mueve. Mañana poll y lo vemos juntos.",
+      "probability": 0.01309,
+      "refs": []
+    },
+    {
+      "id": "excusa_038",
+      "category": "dormir",
+      "text": "Mi gente.. hoy me tomo el descansito. Me dormí pensando el guion y soñé que ya había streameado. Mentira pe.",
+      "probability": 0.011999,
+      "refs": []
+    },
+    {
+      "id": "excusa_039",
+      "category": "preparar",
+      "text": "Mi gentesita, hoy no prendo. Ando terminando detalles «pequeños» que se volvieron una quest completa.",
+      "probability": 0.011999,
+      "refs": []
+    },
+    {
+      "id": "excusa_040",
+      "category": "dormir",
+      "text": "Mi gentesita! Hoy no prendo. Me quedé dormida en modo «solo cierro los ojos un segundo». Clásico.",
+      "probability": 0.010909,
+      "refs": []
+    },
+    {
+      "id": "excusa_041",
+      "category": "preparar",
+      "text": "Bueno mi gentesita. Hoy descanso para terminar lo del álbum/idea musical y no sobreexigirme en stream.",
+      "probability": 0.010909,
+      "refs": []
+    },
+    {
+      "id": "excusa_042",
+      "category": "mente",
+      "text": "Mi gente, hoy me tomo el día. Mucho sobrepienso, poco sueño útil. Mañana vuelvo más centrada.",
+      "probability": 0.010909,
+      "refs": []
+    },
+    {
+      "id": "excusa_043",
+      "category": "salir",
+      "text": "Mi gentesita! Hoy descansito. Salí un rato y cuando volví ya era horario de mimir, no de stream.",
+      "probability": 0.010909,
+      "refs": []
+    },
+    {
+      "id": "excusa_044",
+      "category": "contenido",
+      "text": "Buenas mi gente. Hoy no stream de series: estoy acomodando horarios para hacerlo bien la próxima.",
+      "probability": 0.010909,
+      "refs": []
+    },
+    {
+      "id": "excusa_045",
+      "category": "dormir",
+      "text": "Disculpen mi gente. Hoy descanso porque el sueño me ganó la batalla y acepté la derrota con dignidad.",
+      "probability": 0.009818,
+      "refs": []
+    },
+    {
+      "id": "excusa_046",
+      "category": "dormir",
+      "text": "Mi gentesita, hoy descansito. Me desperté, vi la hora, y dije «mejor mañana doy el 100%». Los quiero.",
+      "probability": 0.008727,
+      "refs": []
+    },
+    {
+      "id": "excusa_047",
+      "category": "mente",
+      "text": "Bueno mi gentesita. Hoy no stream. Acepto el descansito sin drama (aunque igual digan VAGA). Los quiero.",
+      "probability": 0.008727,
+      "refs": []
+    },
+    {
+      "id": "excusa_048",
+      "category": "salir",
+      "text": "Bueno mi gentesita. Hoy no prendo: día familiar/feriado y mañana vuelvo a la chamba.",
+      "probability": 0.008727,
+      "refs": []
+    },
+    {
+      "id": "excusa_049",
+      "category": "contenido",
+      "text": "Mi gente.. hoy descansito. Quería prender media horita pero seguro alargo y arruino la sorpresa de mañana.",
+      "probability": 0.008727,
+      "refs": []
+    },
+    {
+      "id": "excusa_050",
+      "category": "salir",
+      "text": "Mi gente, hoy descanso. Tengo que salir en la noche y prefiero no hacer un stream express a las corridas.",
+      "probability": 0.007636,
+      "refs": []
+    },
+    {
+      "id": "excusa_051",
+      "category": "anime_madoka",
+      "text": "Mi gentesita, hoy descanso. Empecé Madoka «solo un capítulo» y salí emocionalmente destruida. Mañana prendo cuando deje de ser un squishy triste.",
+      "probability": 0.007636,
+      "refs": [
+        "madoka_magica"
+      ]
+    },
+    {
+      "id": "excusa_052",
+      "category": "anime_villana",
+      "text": "Mi gentesita! Hoy descansito. Puse Me enamoré de la villana «solo un capítulo» y Rae se pasó el episodio entero confesándole el amor a Claire François. Se me fue el horario.",
+      "probability": 0.007636,
+      "refs": [
+        "me_enamoré_de_la_villana"
+      ]
+    },
+    {
+      "id": "excusa_053",
+      "category": "dormir",
+      "text": "Mi gentesita, hoy descanso. Me dormí tarde editando «un cortecito» y hoy el cuerpo cobró intereses.",
+      "probability": 0.007636,
+      "refs": []
+    },
+    {
+      "id": "excusa_054",
+      "category": "preparar",
+      "text": "Buenas mi gente. Hoy no stream: estoy terminando ajustes de audio/luces para que mañana no sea caos.",
+      "probability": 0.007636,
+      "refs": []
+    },
+    {
+      "id": "excusa_055",
+      "category": "mente",
+      "text": "Mi gente.. hoy descansito. Día de reset mental corto; mañana vuelvo sin tanto ruido en la cabeza.",
+      "probability": 0.006545,
+      "refs": []
+    },
+    {
+      "id": "excusa_056",
+      "category": "salir",
+      "text": "Mi gentesita! Hoy no prendo. Tuve pendientes fuera de casa y llegué en modo batería baja.",
+      "probability": 0.006545,
+      "refs": []
+    },
+    {
+      "id": "excusa_057",
+      "category": "preparar",
+      "text": "Bueno mi gentesita. Hoy descanso para avanzar el backlog de cosas «que sí o sí» quiero dejar listas.",
+      "probability": 0.006545,
+      "refs": []
+    },
+    {
+      "id": "excusa_058",
+      "category": "anime_madoka",
+      "text": "Buenas mi gente. Hoy no stream: Madoka me recordó que la esperanza es un arma de doble filo… y mi energía también. Descansen.",
+      "probability": 0.005454,
+      "refs": [
+        "madoka_magica"
+      ]
+    },
+    {
+      "id": "excusa_059",
+      "category": "anime_villana",
+      "text": "Buenas mi gente. Hoy no stream: estaba juntando flags de Claire como Rae Taylor y se me olvidó el flag de prender. Bad end del horario.",
+      "probability": 0.005454,
+      "refs": [
+        "me_enamoré_de_la_villana"
+      ]
+    },
+    {
+      "id": "excusa_060",
+      "category": "dormir",
+      "text": "Disculpen mi gente. Hoy descansito: snooze olímpico. Medalla de oro en no despertar a tiempo.",
+      "probability": 0.005454,
+      "refs": []
+    },
+    {
+      "id": "excusa_061",
+      "category": "contenido",
+      "text": "Mi gentesita, hoy no hay stream de chill porque estoy acomodando el calendario de pelis/series.",
+      "probability": 0.005454,
+      "refs": []
+    },
+    {
+      "id": "excusa_062",
+      "category": "preparar",
+      "text": "Buenas mi gentesita. Hoy descanso: chamba de detrás de cámaras. Mañana se nota, confíen.",
+      "probability": 0.005454,
+      "refs": []
+    },
+    {
+      "id": "excusa_063",
+      "category": "dormir",
+      "text": "Mi gente, hoy me tomo el descansito. Me ganó la cama en time-over. Rematch mañana.",
+      "probability": 0.004909,
+      "refs": []
+    },
+    {
+      "id": "excusa_064",
+      "category": "preparar",
+      "text": "Buenas mi gentesita. Hoy descanso porque estoy preparando sorpresitas y si prendo spoileo sin querer.",
+      "probability": 0.004582,
+      "refs": []
+    },
+    {
+      "id": "excusa_065",
+      "category": "anime_villana",
+      "text": "Mi gente.. hoy descanso. Claire François me gritó «¡plebeya!» y me mandó a servir el té en vez de prender. Arco de criada, no de live.",
+      "probability": 0.004363,
+      "refs": [
+        "me_enamoré_de_la_villana"
+      ]
+    },
+    {
+      "id": "excusa_066",
+      "category": "ridicula",
+      "text": "Mi gentesita, hoy descansito: se me fue la señal… emocional. La wifi del alma está en 1 barra.",
+      "probability": 0.004363,
+      "refs": []
+    },
+    {
+      "id": "excusa_067",
+      "category": "mente",
+      "text": "Mi gentesita! Hoy no prendo. Prefiero cuidar la energía y darles un stream decente mañana.",
+      "probability": 0.004363,
+      "refs": []
+    },
+    {
+      "id": "excusa_068",
+      "category": "ridicula",
+      "text": "Buenas mi gente. Hoy no stream porque la papa (yo) necesita hervirse en paz. Mañana freímos contenido.",
+      "probability": 0.003818,
+      "refs": []
+    },
+    {
+      "id": "excusa_069",
+      "category": "anime_madoka",
+      "text": "Mi gente.. hoy descansito. Intenté armar el stream y mi cerebro hizo contrato con Kyubey a cambio de «cinco minutos más de sueño». Perdí.",
+      "probability": 0.003273,
+      "refs": [
+        "madoka_magica"
+      ]
+    },
+    {
+      "id": "excusa_070",
+      "category": "anime_citrus",
+      "text": "Mi gente, hoy descanso. Pusé Citrus «a ver qué onda» y a los 10 minutos ya estaba negociando con mi paciencia. Mejor mimir.",
+      "probability": 0.003273,
+      "refs": [
+        "citrus"
+      ]
+    },
+    {
+      "id": "excusa_071",
+      "category": "ridicula",
+      "text": "Mi gente.. hoy descanso. Mis manos entraron en modo «solo tippea VAGA en el chat» y no pude pelearles.",
+      "probability": 0.003273,
+      "refs": []
+    },
+    {
+      "id": "excusa_072",
+      "category": "anime_villana",
+      "text": "Bueno mi gentesita. Hoy no prendo: mi oshi es la villana y Claire-sama decretó descansito por estrategia. Si prendo se rompe su ruta. Es canon.",
+      "probability": 0.002727,
+      "refs": [
+        "me_enamoré_de_la_villana"
+      ]
+    },
+    {
+      "id": "excusa_073",
+      "category": "ridicula",
+      "text": "Disculpen mi gentesita. Hoy no prendo: perdí una discusión con mi almohada y tuvo mejores argumentos.",
+      "probability": 0.002727,
+      "refs": []
+    },
+    {
+      "id": "excusa_074",
+      "category": "ridicula",
+      "text": "Mi gentesita! Hoy descansito. Iba a prender, pero el botón de «Go Live» me miró mal y me intimidó.",
+      "probability": 0.0024,
+      "refs": []
+    },
+    {
+      "id": "excusa_075",
+      "category": "anime_madoka",
+      "text": "Disculpen mi gentesita. Hoy no prendo porque relojé la opening de Madoka en loop y ahora existo en modo bruja de la procrastinación.",
+      "probability": 0.002182,
+      "refs": [
+        "madoka_magica"
+      ]
+    },
+    {
+      "id": "excusa_076",
+      "category": "anime_citrus",
+      "text": "Buenas mi gentesita. Hoy no stream: intenté Citrus por presión social y ahora necesito descanso… del anime y de mis decisiones.",
+      "probability": 0.002182,
+      "refs": [
+        "citrus"
+      ]
+    },
+    {
+      "id": "excusa_077",
+      "category": "anime_villana",
+      "text": "Mi gentesita, hoy descansito. Reencarné en Rae Taylor y el único plan que tengo es enamorar a Claire, no streamear. El otome Revolution me secuestró el cerebro.",
+      "probability": 0.001964,
+      "refs": [
+        "me_enamoré_de_la_villana"
+      ]
+    },
+    {
+      "id": "excusa_078",
+      "category": "ridicula",
+      "text": "Buenas mi gentesita. Hoy no hay stream porque estoy en cooldown de personaje tras un crit de sueño.",
+      "probability": 0.001964,
+      "refs": []
+    },
+    {
+      "id": "excusa_079",
+      "category": "ridicula",
+      "text": "Mi gente, hoy descanso. Intenté levantarme y mi hitbox de cama no me soltó. Lag físico.",
+      "probability": 0.001636,
+      "refs": []
+    },
+    {
+      "id": "excusa_080",
+      "category": "anime_citrus",
+      "text": "Disculpen mi gente. Hoy descansito porque abrí Citrus por error (juraba que era otra cosa) y perdí 40 minutos en modo «¿por qué estoy aquí?».",
+      "probability": 0.001527,
+      "refs": [
+        "citrus"
+      ]
+    },
+    {
+      "id": "excusa_081",
+      "category": "anime_villana",
+      "text": "Mi gentesita! Hoy descansito. Claire François es mi oshi oficial y el stream quedó en second prince: nadie lo elige. Rae entendería.",
+      "probability": 0.001418,
+      "refs": [
+        "me_enamoré_de_la_villana"
+      ]
+    },
+    {
+      "id": "excusa_082",
+      "category": "ridicula",
+      "text": "Bueno mi gentesita. Hoy cancelado por mantenimiento del servidor (mi cerebro). ETA: mañana.",
+      "probability": 0.001309,
+      "refs": []
+    },
+    {
+      "id": "excusa_083",
+      "category": "anime_madoka",
+      "text": "Bueno mi gentesita. Hoy no prendo: modo Homura de «guardar este stream para un timeline mejor (mañana)».",
+      "probability": 0.0012,
+      "refs": [
+        "madoka_magica"
+      ]
+    },
+    {
+      "id": "excusa_084",
+      "category": "ridicula",
+      "text": "Mi gentesita, hoy no prendo. Estaba a punto… y se me apareció el espíritu de la siesta con DLCs.",
+      "probability": 0.001091,
+      "refs": []
+    },
+    {
+      "id": "excusa_085",
+      "category": "anime_villana",
+      "text": "Disculpen mi gentesita. Hoy no prendo: iba a ser la heroína del live y reencarné en la otaku que se enamora de la villana. Rae 1, stream 0. Oh yara.",
+      "probability": 0.000982,
+      "refs": [
+        "me_enamoré_de_la_villana"
+      ]
+    },
+    {
+      "id": "excusa_086",
+      "category": "anime_citrus",
+      "text": "Mi gentesita! Hoy no prendo. Me retaron a ver Citrus y perdí el reto, la dignidad y el horario del stream. Oh yara.",
+      "probability": 0.000982,
+      "refs": [
+        "citrus"
+      ]
+    },
+    {
+      "id": "excusa_087",
+      "category": "ridicula",
+      "text": "Disculpen mi gente. Hoy descanso porque conté ovejas, conté VODs, conté excusas… y ganó la siesta.",
+      "probability": 0.000873,
+      "refs": []
+    },
+    {
+      "id": "excusa_088",
+      "category": "anime_madoka",
+      "text": "Mi gentesita, hoy no stream. Kyubey me ofreció prender a cambio de mi horario de sueño y dije que no… pero igual no prendí. Plot twist.",
+      "probability": 0.000764,
+      "refs": [
+        "madoka_magica"
+      ]
+    },
+    {
+      "id": "excusa_089",
+      "category": "anime_citrus",
+      "text": "Mi gente.. hoy descanso. Soñé que streameaba Citrus react y me desperté cansada de un stream que ni hice. El odio es fuerte pe.",
+      "probability": 0.000655,
+      "refs": [
+        "citrus"
+      ]
+    },
+    {
+      "id": "excusa_090",
+      "category": "ridicula",
+      "text": "Mi gente.. hoy no stream. Me convertí temporalmente en NPC de «descansa hoy» y no tengo diálogo de quest.",
+      "probability": 0.0006,
+      "refs": []
+    },
+    {
+      "id": "excusa_091",
+      "category": "anime_villana",
+      "text": "Buenas mi gente. Hoy descanso. Rae me juró que si prendo se activa el bad end de Claire. Le creí. Estoy VAGA por lore del otome.",
+      "probability": 0.000545,
+      "refs": [
+        "me_enamoré_de_la_villana"
+      ]
+    },
+    {
+      "id": "excusa_092",
+      "category": "anime_madoka",
+      "text": "Mi gentesita! Hoy descansito. Vi el final de Madoka (otra vez) y ahora necesito 24h de buffer emocional antes de prender.",
+      "probability": 0.000436,
+      "refs": [
+        "madoka_magica"
+      ]
+    },
+    {
+      "id": "excusa_093",
+      "category": "ridicula",
+      "text": "Buenas mi gentesita. Hoy cancelo: mi motivación hizo rage quit y dejó una nota que dice «mañana».",
+      "probability": 0.000436,
+      "refs": []
+    },
+    {
+      "id": "excusa_094",
+      "category": "anime_citrus",
+      "text": "Bueno mi gentesita. Hoy cancelo porque Yuzu y Mei pelearon en mi cabeza más fuerte que mi ganas de prender. (No me gusta Citrus, lo juro.)",
+      "probability": 0.000382,
+      "refs": [
+        "citrus"
+      ]
+    },
+    {
+      "id": "excusa_095",
+      "category": "ridicula",
+      "text": "Mi gentesita! Hoy descanso porque el universo alineó sueño + snack + «luego prendo» en un combo perfecto.",
+      "probability": 0.000305,
+      "refs": []
+    },
+    {
+      "id": "excusa_096",
+      "category": "anime_citrus",
+      "text": "Mi gente.. hoy descanso. Abrí Citrus, cerré Citrus, abrí la cama. Trilogía perfecta de decisiones dudosas.",
+      "probability": 0.000273,
+      "refs": [
+        "citrus"
+      ]
+    },
+    {
+      "id": "excusa_097",
+      "category": "anime_citrus",
+      "text": "Mi gente.. hoy cancelo. Puse Citrus de fondo «sin mirar» y mi alma hizo alt+f4. No me gusta, confirmado otra vez.",
+      "probability": 0.000218,
+      "refs": [
+        "citrus"
+      ]
+    },
+    {
+      "id": "excusa_098",
+      "category": "ridicula",
+      "text": "Mi gente, hoy no prendo. Abrí OBS, OBS me abrió el tercer ojo… y me mandó a dormir. Respeto señales.",
+      "probability": 0.000196,
+      "refs": []
+    },
+    {
+      "id": "excusa_099",
+      "category": "ridicula",
+      "text": "Bueno mi gentesita. Hoy el stream fue absorbido por un agujero negro con forma de cobija. Ciencia.",
+      "probability": 0.000131,
+      "refs": []
+    },
+    {
+      "id": "excusa_100",
+      "category": "ridicula",
+      "text": "Disculpen mi gentesita. Hoy descanso porque accidentalmente speedrunée «no streamear» en WR personal.",
+      "probability": 8.7e-05,
+      "refs": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.venv
+exports
+.env
+__pycache__
+*.py[cod]
+*.egg-info
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json

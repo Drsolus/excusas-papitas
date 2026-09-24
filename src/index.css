@@ -1,0 +1,136 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Sora', system-ui, sans-serif;
+  --font-body: 'Zen Maru Gothic', 'Sora', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+  --color-ink: #050508;
+  --color-panel: #0c0e16;
+  --color-fry: #ffd11a;
+  --color-sauce: #ff2d55;
+  --color-signal: #2ee6d6;
+  --color-ember: #ff6b2c;
+  --color-mist: #a7adc2;
+  --color-snow: #f5f6fb;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body,
+  #root {
+    min-height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background: var(--color-ink);
+    color: var(--color-snow);
+    font-family: var(--font-body);
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-signal) 45%, transparent);
+    color: var(--color-snow);
+  }
+}
+
+@keyframes float-a {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-2deg);
+  }
+  50% {
+    transform: translateY(-14px) rotate(2deg);
+  }
+}
+
+@keyframes float-b {
+  0%,
+  100% {
+    transform: translateY(0) rotate(3deg);
+  }
+  50% {
+    transform: translateY(12px) rotate(-1deg);
+  }
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.92);
+    opacity: 0.55;
+  }
+  70% {
+    transform: scale(1.18);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.18);
+    opacity: 0;
+  }
+}
+
+@keyframes reveal-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.98);
+    filter: blur(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+@keyframes scan {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100vh);
+  }
+}
+
+.anim-float-a {
+  animation: float-a 7s ease-in-out infinite;
+}
+
+.anim-float-b {
+  animation: float-b 8.5s ease-in-out infinite;
+}
+
+.anim-pulse-ring {
+  animation: pulse-ring 1.6s ease-out infinite;
+}
+
+.anim-reveal {
+  animation: reveal-up 0.55s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+.scanline {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent 2px,
+    rgb(255 255 255 / 0.015) 3px
+  );
+  mix-blend-mode: soft-light;
+  z-index: 1;
+}
+
+.grid-glow {
+  background-image:
+    linear-gradient(rgb(46 230 214 / 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(46 230 214 / 0.06) 1px, transparent 1px);
+  background-size: 48px 48px;
+  mask-image: radial-gradient(ellipse at center, black 20%, transparent 72%);
+}

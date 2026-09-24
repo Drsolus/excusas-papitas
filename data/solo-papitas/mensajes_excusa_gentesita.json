@@ -1,0 +1,846 @@
+{
+  "filter": {
+    "openings": [
+      "mi gentesita",
+      "mi dulce gentesita",
+      "mi gente",
+      "buenas mi gentesita",
+      "buenas mi gente",
+      "bueno mi gentesita",
+      "disculpen mi gentesita"
+    ],
+    "rule": "Tras quitar @everyone opcional, el content empieza con una de las aperturas de excusa (límite de palabra; sin distinguir mayúsculas).",
+    "channel_id": "863441653662744646",
+    "match_count": 22
+  },
+  "messages": [
+    {
+      "id": "1522802405983387729",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-04T03:13:05.887000+00:00",
+      "content": "@everyone Buenas mi gente \n\nHoy me tomo un descansito, llevo pensando mucho últimamente y, quisiera intentar despejarme otra vez. Se que ya me tome un descanso hace unos días, pero hoy mi mente está saturada otra vez, una disculpa.\n\nUstedes saben que prefiero estar más chill, así que mejor los veo mañana.\nBonita noche chicos, los quiero. <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "papitasLove",
+          "count": 56
+        },
+        {
+          "emoji": "🇦",
+          "count": 50
+        },
+        {
+          "emoji": "🇬",
+          "count": 50
+        },
+        {
+          "emoji": "🅰️",
+          "count": 50
+        },
+        {
+          "emoji": "🇻",
+          "count": 49
+        },
+        {
+          "emoji": "🚿",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "id": "1523527643780223166",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-06T03:14:56.052000+00:00",
+      "content": "@everyone Mi gentesita! Ayer llegamos a 50K de bots por lo que hoy me toca mi descansito, no?\n\nMentira mi gente, la verdad que quiero descansar para arreglar un poco mi horario, estos dias anduve sobre pensando tantas cosas que estaba saturada, hoy por fin ya me siento mas tranquila. Pero prefiero descansar para recuperar mi horario perdido por tanto estres. <:papitasDeath:1288289804492079124> \n\nDe todas maneras, realmente intento seguir sus consejos de no sobre exigirme tanto. \nTanto amo a Ragatha que ya me creo ella, huevadas mi gente. \nNada, los veo mañana en un stream de chill. Bonita noche <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 63
+        },
+        {
+          "emoji": "🇦",
+          "count": 63
+        },
+        {
+          "emoji": "🇬",
+          "count": 63
+        },
+        {
+          "emoji": "🅰️",
+          "count": 63
+        },
+        {
+          "emoji": "papitasLove",
+          "count": 51
+        },
+        {
+          "emoji": "🚿",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "id": "1524971377902227619",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-10T02:51:49.090000+00:00",
+      "content": "@everyone Mi gentesita, hoy descansare de chill <:papitasMimir:1288289826835140648> \n\nQueria ver si empezaba a grabar las reacciones y tambien dibujar un rato! Por lo que me tomare la nochesita de descanso. \n\nEste es un mensaje es bastante cortito, aun asi no soy vaga. \nLos veo mañana mi gentesita, bonita noche <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 47
+        },
+        {
+          "emoji": "🅰️",
+          "count": 47
+        },
+        {
+          "emoji": "🇬",
+          "count": 46
+        },
+        {
+          "emoji": "🇦",
+          "count": 42
+        },
+        {
+          "emoji": "🚿",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "id": "1526794672326840370",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-15T03:36:56.356000+00:00",
+      "content": "@everyone Mi gentesita! \n\nEl día de hoy me tomare mi descansito, pero esperen! \nAntes de que digan: \"y el día de peli/serie?\" tranquilos, lo pasare para mañana!\n\nMañana tocara ver lo que gane la poll que podre a continuación (poll que tambien puse en wasap) hoy me queria tomar mi descansito relajarme, espero no me digan VAGA, todos necesitan su momento de relajación.\nBueno mi gente, descansen y ya los veo mañana <:papitasMimir:1288289826835140648>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇬",
+          "count": 61
+        },
+        {
+          "emoji": "🇻",
+          "count": 59
+        },
+        {
+          "emoji": "🇦",
+          "count": 59
+        },
+        {
+          "emoji": "🅰️",
+          "count": 58
+        },
+        {
+          "emoji": "🚿",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "id": "1528237303347150848",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-19T03:09:26.394000+00:00",
+      "content": "@everyone Mi gentesita, hoy descanso de stream <:papitasMimir:1288289826835140648> \n\nMe la pasé genial en la TokyoBlast! Y increíblemente sin tomar tanto, luego me quedé en casa de Emet y hoy salimos a ver una peli. Así que hoy me tomaré un descansito para pasar tiempo con ella 😄 \n\nIgualmente mañana regreso a casa, así que mañana si stream de chill. Bonita noche mi gente, los quiero mucho <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 45
+        },
+        {
+          "emoji": "🇦",
+          "count": 44
+        },
+        {
+          "emoji": "🇬",
+          "count": 43
+        },
+        {
+          "emoji": "🅰️",
+          "count": 43
+        },
+        {
+          "emoji": "🚿",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "id": "1528966349991313418",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-21T03:26:24.659000+00:00",
+      "content": "@everyone Mi gente.. la verdad no tengo excusa.\n\nHoy descanso, quisiera charlar con una vieja amiga, y intentar pensar que tipo de contenido quiero hacer ahora (otra vez). Se que lo eh dicho muchas veces pero realmente ando bastante perdida con que hacer.\n\nIgualmente se que solo podrán vaga vaga VAGA, pero para los que lean pues, bonita noche. Mucho sobrepienso, prefiero dejar de pensar tanto y empezar a hacer algo con tantos pensamientos. Dibujare un rato y mañana les muestro que hice, tengan bonita noche y descansen ❤️",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "❤️",
+          "count": 37
+        },
+        {
+          "emoji": "🚿",
+          "count": 26
+        },
+        {
+          "emoji": "🇻",
+          "count": 22
+        },
+        {
+          "emoji": "🇬",
+          "count": 21
+        },
+        {
+          "emoji": "🇦",
+          "count": 17
+        },
+        {
+          "emoji": "🇾",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "id": "1528966594955444234",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-21T03:27:23.063000+00:00",
+      "content": "mi gente",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": false,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇦",
+          "count": 40
+        },
+        {
+          "emoji": "🇻",
+          "count": 39
+        },
+        {
+          "emoji": "🚿",
+          "count": 38
+        },
+        {
+          "emoji": "🅰️",
+          "count": 37
+        },
+        {
+          "emoji": "🇬",
+          "count": 36
+        },
+        {
+          "emoji": "🥑",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "id": "1530064948791607407",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-24T04:11:51.024000+00:00",
+      "content": "@everyone Mi gentesita, hoy descansito\n\nHoy salí con familia ya que era feriado, y fuimos a ver el partido de mi hermano (perdió sadge, pero ahora tengo ganas de ser arquera oh yara oh yara) \n\nPor otro lado, mañana no prenderé ya que saldré a la fiesta de NightcoreRave, así que ya los veo el sábado! \nTambién, quería decirles que los quiero mucho, lamento no prender pero me tomé una redbull (por primera vez, para una promoción) y ya no me dio sueño, así que dormí tarde y se me hizo tarde.\n\nNada, bonita noche mi gente. Los quiero y ya los veo el sábado <:papitasMimir:1288289826835140648> ❤️",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇬",
+          "count": 57
+        },
+        {
+          "emoji": "🚿",
+          "count": 56
+        },
+        {
+          "emoji": "🇦",
+          "count": 54
+        },
+        {
+          "emoji": "🅰️",
+          "count": 54
+        },
+        {
+          "emoji": "🇻",
+          "count": 53
+        }
+      ]
+    },
+    {
+      "id": "1530783347444285460",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-26T03:46:30.610000+00:00",
+      "content": "@everyone Mi gentesita!! \n\nHoy fue un día god, porque dormí todo el día (mentira mi gente si quería hacer stream y también ir a la feria yuri pero me dormí y perdí mi entrada)\n\nPero! Para compensar mi vagancia, mañana domingo prendo. (aunque saldré un rato con amigas en la tarde, así que puede que prenda tarde) pero igualmente ya los veo mañana, en la nochesita. \nNada, bonita noche mi gente, y los quiero mucho <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 56
+        },
+        {
+          "emoji": "🇦",
+          "count": 56
+        },
+        {
+          "emoji": "🇬",
+          "count": 55
+        },
+        {
+          "emoji": "🅰️",
+          "count": 54
+        },
+        {
+          "emoji": "🚿",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "id": "1531514661533515776",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-07-28T04:12:29.476000+00:00",
+      "content": "@everyone Mi dulce gentesita que me entenderá al contarles que.. hoy descanso\n\nSe que es tarde para el anuncio y les había dicho que quería chambear, pero eso mismo estoy haciendo, ando terminando las cosas que quiero preparar para mañana y espero les gusten. \n\nCasi que pensaba hacer mi stream de media horita pero seguro alargo la media horita y arruino la sorpresa de mañana. Así que mejor descanso.\n\nLos veo mañana mi gente, hoy descanso pero chambeo, aunque no me crean <:papitasPrayge:1288289798645223424>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🚿",
+          "count": 47
+        },
+        {
+          "emoji": "🇻",
+          "count": 46
+        },
+        {
+          "emoji": "🇬",
+          "count": 46
+        },
+        {
+          "emoji": "🅰️",
+          "count": 46
+        },
+        {
+          "emoji": "🇦",
+          "count": 45
+        },
+        {
+          "emoji": "❤️",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "id": "1535495657719337090",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-08-08T03:51:32.930000+00:00",
+      "content": "@everyone Bueno mi gentesita, se acabó mi racha de streams\n\nHoy descansito ya que salí con mi familia. Igual mañana ya es el día del torneo! Así que los veo mañana a las 7PM.\n\nBonita noche mi gentesita, los quiero mucho <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🅰️",
+          "count": 47
+        },
+        {
+          "emoji": "🇻",
+          "count": 46
+        },
+        {
+          "emoji": "🇦",
+          "count": 46
+        },
+        {
+          "emoji": "🇬",
+          "count": 46
+        },
+        {
+          "emoji": "🚿",
+          "count": 40
+        },
+        {
+          "emoji": "🇾",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "id": "1536928348058550396",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-08-12T02:44:32.925000+00:00",
+      "content": "@everyone Disculpen mi gentesita\n\nHoy no fue el mejor día, así que prefiero descansar y mañana estar de chill.\n\nSe que no lo digo mucho (en realidad si lo digo jajaj) pero los quiero, y les agradezco todo el apoyo que siempre me dan.\nEn estos días eh estado ansiosa por muchas cosas pero siempre me calma saber que igual me apoyan. Incluso algunos esperan estos anuncios y eso es muy wow.\nPor eso y más, les agradezco mucho todo su apoyo, trataré de esforzarme más y sobrellevar los malos días. Descansen mi gente ❤️",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "❤️",
+          "count": 62
+        },
+        {
+          "emoji": "🇫",
+          "count": 46
+        },
+        {
+          "emoji": "🇱",
+          "count": 46
+        },
+        {
+          "emoji": "🇴",
+          "count": 46
+        },
+        {
+          "emoji": "🇯",
+          "count": 46
+        },
+        {
+          "emoji": "🚿",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "id": "1537668745345105941",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-08-14T03:46:37.394000+00:00",
+      "content": "@everyone Mi gente hoy no stream <:papitasCine:1288289835810816071> \n\nHoy tengo que formatear y me anda tomando mas tiempo de lo que pense.\nAl menos descubri canciones guardadas que habia olvidado, asi que god.\n\nLes dejo este doblaje de regalo, los quiero y ya los veo mañana <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [
+        {
+          "id": "1537668744220909628",
+          "filename": "no_hare_stream.mp4",
+          "size": 17792908,
+          "url": "https://cdn.discordapp.com/attachments/863441653662744646/1537668744220909628/no_hare_stream.mp4?ex=6ab545dd&is=6ab3f45d&hm=317c32e9b5454e23541a58b53f328fc76c5bb77ac1dd91e9cd55b3d49d10bdb7&",
+          "content_type": "video/mp4",
+          "title": "no hare stream"
+        }
+      ],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 58
+        },
+        {
+          "emoji": "🅰️",
+          "count": 58
+        },
+        {
+          "emoji": "🇬",
+          "count": 58
+        },
+        {
+          "emoji": "🇦",
+          "count": 58
+        },
+        {
+          "emoji": "❤️",
+          "count": 49
+        },
+        {
+          "emoji": "🚿",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "id": "1539103237573967902",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-08-18T02:46:46.993000+00:00",
+      "content": "@everyone Mi gentesita! \n\nHoy tomare el dia para terminar de configurar el stream deck, editar los vods para empezar a subirlos a PapitasVods y empezar a re cantar algunas canciones. \n\nAsi que, mejor los veo mañana con menos cosas que hacer en mente y centrada en ustedes. Pero! Antes que me digan vaga (ya lo hicieron seguro).\nHoy me tomare enserio el terminar de hacer/pensar que canciones quiero para un álbum que quisiera sacar, ayer vi mucho sobre artistas y me gusta mucho la idea de sacar uno propio. \n\nSeria god no? Renacer de las cenizas de lo que se perdio por mi formateo. Oh yara\nPero si, descansen mi gentesita. Los veo mañana <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 60
+        },
+        {
+          "emoji": "🇦",
+          "count": 58
+        },
+        {
+          "emoji": "🅰️",
+          "count": 58
+        },
+        {
+          "emoji": "🇬",
+          "count": 56
+        },
+        {
+          "emoji": "❤️",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "id": "1540223217271177216",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-08-21T04:57:10.961000+00:00",
+      "content": "@everyone Mi gentesita!\n\nHoy descansito, me desperte tarde y llevo rato editando pero me faltan varias cosas por terminar, asi que prefiero terminarlo todo hoy. Igual gracias a eso me inspire y ando cantando un poco.\nY se que me me dirán \"VAGA pero tampoco me siento al 100% asi que aceptare sus VAGA solo porque si necesito descansar hoy, prefiero ya mañana estar mas chill. <:papitasMimir:1288289826835140648> \n\nAnuncio cortito, y sin nada mas que decir los veo mañana <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 62
+        },
+        {
+          "emoji": "🅰️",
+          "count": 62
+        },
+        {
+          "emoji": "🇬",
+          "count": 62
+        },
+        {
+          "emoji": "🇦",
+          "count": 62
+        },
+        {
+          "emoji": "🚿",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "id": "1540873259162271765",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-08-23T00:00:13.025000+00:00",
+      "content": "@everyone Mi gente.. hoy me consumió mi nueva canción.\n\nDescansaré, pero mañana prenderé a las 5PM por el evento de Soaring y de corrido estaré hasta las 2am\n\nConfíen mi gente, yo confío en que ustedes no me pondrán vaga en este anuncio <:papitasPrayge:1288289798645223424>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 65
+        },
+        {
+          "emoji": "🇬",
+          "count": 64
+        },
+        {
+          "emoji": "🇦",
+          "count": 63
+        },
+        {
+          "emoji": "🅰️",
+          "count": 61
+        },
+        {
+          "emoji": "🚿",
+          "count": 43
+        },
+        {
+          "emoji": "❤️",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "id": "1541656980245061643",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-08-25T03:54:26.692000+00:00",
+      "content": "@everyone Mi gentesita \n\nHoy descansito mi gentesita, ando por fin empecé a escribir el guion del lore mi redebut y tengo que aprovechar creatividad que me queda para terminarlo.\n\nTambién! Ando editando los vods (que tienen mas copy que otra cosa) y los empezare a subir desde pasado mañana, primero toca hacer un anuncio en el canal de PapitaVods \n\nSin mas que decir, descansen mi gentesita. Los quiero y ya los veo mañana <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 56
+        },
+        {
+          "emoji": "🇦",
+          "count": 56
+        },
+        {
+          "emoji": "🅰️",
+          "count": 56
+        },
+        {
+          "emoji": "🇬",
+          "count": 55
+        },
+        {
+          "emoji": "🇫",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "id": "1543122190453448714",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-08-29T04:56:40.028000+00:00",
+      "content": "@everyone Mi gentesita! Hoy descanso mi gentesita <:papitasMimir:1288289826835140648> \n\nMe desperté un poco tarde y en lo que terminaba con las cartas, me vino inspiracion para una cancion nueva. Asi que aprovechare a escribirla, cantarla y asi se las muestro mañana <:papitasTabien:1288289832065437747> \n\nPor cierto! Mañana hare stream mas temprano de lo normal (o eso espero)\nya que tendre que salir en la noche a la fiesta de Sugar.\nAsi que.. puede que los vea mañana, si es que llego a prender mas temprano, o puede que ya los vea el domingo. Ya que si no prendo mñn, toca compensar mi chamba <:papitasNoted:1288289851610894437> \n\nSin nada mas que decir, bonita noche mi gentesita. Los quiero <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🅰️",
+          "count": 52
+        },
+        {
+          "emoji": "🇻",
+          "count": 51
+        },
+        {
+          "emoji": "🇬",
+          "count": 51
+        },
+        {
+          "emoji": "🇦",
+          "count": 51
+        },
+        {
+          "emoji": "🚿",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "id": "1545278221656920224",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-09-04T03:43:57.924000+00:00",
+      "content": "@everyone Mi gentesita, hoy descanso de stream.\n\nAyer sali a pasear un rato, y hoy también estuve paseando pero en mis sueños. Si, me quede dormida, y se hizo tarde\nBueno, aprovechare para programar videos y cortar algunas cosas de los vods. \n\nDe paso ver si continuo el lore, que otra vez ando posponiendo escribirlo, y ver que podemos hacer mañana.\nSin mas que decir, los quiero y ya los veo mañana de chill <:papitasMimir:1288289826835140648>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🚿",
+          "count": 40
+        },
+        {
+          "emoji": "🇻",
+          "count": 35
+        },
+        {
+          "emoji": "🅰️",
+          "count": 34
+        },
+        {
+          "emoji": "🇬",
+          "count": 34
+        },
+        {
+          "emoji": "🇦",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "id": "1547484410851491901",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-09-10T05:50:34.417000+00:00",
+      "content": "@everyone Mi gentesita\n\nMe dormí y tuve una pesadilla, creo que es mi karma. Mañana les cuento la pesadilla, porque mucho texto <a:Nopers:805525716007125032> \n\nPero, como ven hoy toca su descansito! Bueno, obviamente ya se dieron cuenta. Por otro lado, aprovecharé a subir algo a patreon en estas horas, se que no creen pero ya verán <a:NODDERS:805525715411009598> \n\nSin más que decir, descansen mi gentesita. Los quiero mucho <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 52
+        },
+        {
+          "emoji": "🇬",
+          "count": 51
+        },
+        {
+          "emoji": "🇦",
+          "count": 51
+        },
+        {
+          "emoji": "🅰️",
+          "count": 50
+        },
+        {
+          "emoji": "🚿",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "id": "1549268633761349803",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-09-15T04:00:26.308000+00:00",
+      "content": "@everyone Mi gentesita! \n\nHoy me tomare un descansito para terminar un par de cosas que tengo en mente.\nY se que no les gustara esta notica, pero mañana no abra día de pelis.\n\nPero esperen! Para compensarlo, el próximo martes de pelis podemos ver una sola serie todo el stream y si ustedes quieren, vuelvo a retomar Avatar. (con el calvo de ang)\n\nBueno, nada mas eso mi gentesita. Les dejare una encuesta para que decidan que serie vemos toda la semana (de las que estamos viendo) \nY sin mas que decir, descansen. Espero les guste lo que estoy planeando, los quiero <:papitasLove:1288289772846055546>",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [],
+      "top_reactions": [
+        {
+          "emoji": "🇻",
+          "count": 50
+        },
+        {
+          "emoji": "🅰️",
+          "count": 50
+        },
+        {
+          "emoji": "🇬",
+          "count": 49
+        },
+        {
+          "emoji": "🇦",
+          "count": 49
+        },
+        {
+          "emoji": "🚿",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "id": "1551457211426021416",
+      "channel_id": "863441653662744646",
+      "timestamp": "2026-09-21T04:57:03.885000+00:00",
+      "content": "@everyone Buenas mi gentesita, se que yo como una persona chambeadora es raro ver que descanse. Pero toco.\n\nDe todas maneras les dejo algo que paso hoy y no hice stream porque dude mi wanda.. si mi gente, pude redimirme y quede 3ter puesto en un torneo de wandas pero individual. \n\nAsi que, descansare pero ya los veo mañana para presumirles mi 3er puesto y las nuevas alertas que justo ando terminando de poner! (porfin)\n\nLos veo mañana! <:papitasLove:1288289772846055546> ❤️",
+      "author": {
+        "id": "632385135618293771",
+        "username": "papitasvt",
+        "global_name": "PapitasVT"
+      },
+      "mention_everyone": true,
+      "attachments": [
+        {
+          "id": "1551457205306269776",
+          "filename": "oh_yara_hago_huevadas_pe.mp4",
+          "size": 201871815,
+          "url": "https://cdn.discordapp.com/attachments/863441653662744646/1551457205306269776/oh_yara_hago_huevadas_pe.mp4?ex=6ab5565e&is=6ab404de&hm=0f2b49fdbb6b16feeb606c1d54d29b4093ef07e6ac50443d353709a11a111adb&",
+          "content_type": "video/mp4",
+          "title": "oh yara hago huevadas pe"
+        }
+      ],
+      "top_reactions": [
+        {
+          "emoji": "🚿",
+          "count": 42
+        },
+        {
+          "emoji": "🇻",
+          "count": 41
+        },
+        {
+          "emoji": "🅰️",
+          "count": 40
+        },
+        {
+          "emoji": "🇬",
+          "count": 40
+        },
+        {
+          "emoji": "🇦",
+          "count": 40
+        },
+        {
+          "emoji": "❤️",
+          "count": 29
+        }
+      ]
+    }
+  ]
+}
